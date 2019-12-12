@@ -1,1 +1,1 @@
-testing
+An automatic merge is a branch that changes to newer releases wihout the risk of losing anything.
